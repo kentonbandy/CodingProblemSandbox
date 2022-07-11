@@ -1,0 +1,15 @@
+C:\Users\Kenny\coding\CodingProblemSandbox\bin\Debug\net6.0\CodingProblemSandbox.exe
+C:\Users\Kenny\coding\CodingProblemSandbox\bin\Debug\net6.0\CodingProblemSandbox.deps.json
+C:\Users\Kenny\coding\CodingProblemSandbox\bin\Debug\net6.0\CodingProblemSandbox.runtimeconfig.json
+C:\Users\Kenny\coding\CodingProblemSandbox\bin\Debug\net6.0\CodingProblemSandbox.dll
+C:\Users\Kenny\coding\CodingProblemSandbox\bin\Debug\net6.0\CodingProblemSandbox.pdb
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\CodingProblemSandbox.csproj.AssemblyReference.cache
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\CodingProblemSandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\CodingProblemSandbox.AssemblyInfoInputs.cache
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\CodingProblemSandbox.AssemblyInfo.cs
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\CodingProblemSandbox.csproj.CoreCompileInputs.cache
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\CodingProblemSandbox.dll
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\refint\CodingProblemSandbox.dll
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\CodingProblemSandbox.pdb
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\CodingProblemSandbox.genruntimeconfig.cache
+C:\Users\Kenny\coding\CodingProblemSandbox\obj\Debug\net6.0\ref\CodingProblemSandbox.dll
